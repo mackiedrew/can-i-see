@@ -1,0 +1,25 @@
+{
+  "name": "can-i-see",
+  "version": "1.0.0",
+  "description": "An easy way to interact with elements' visibility.",
+  "main": "source/index.ts",
+  "scripts": {
+    "test": "NODE_ENV=test jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mackiedrew/can-i-see.git"
+  },
+  "keywords": [
+    "html",
+    "element",
+    "css",
+    "visible"
+  ],
+  "author": "Mackie Drew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mackiedrew/can-i-see/issues"
+  },
+  "homepage": "https://github.com/mackiedrew/can-i-see#readme"
+}
